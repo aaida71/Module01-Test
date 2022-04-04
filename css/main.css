@@ -1,0 +1,14 @@
+h1 {
+    color: blue;
+}
+p {
+    color: brown;
+}
+li {
+    color: red;
+    background-color: blueviolet;
+}
+ul {
+    color: aqua;
+    background-color: black;
+}
