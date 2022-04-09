@@ -6,9 +6,9 @@ p {
 }
 li {
     color: red;
-    background-color: blueviolet;
+    background-color: lightcyan;
 }
-ul {
-    color: aqua;
-    background-color: black;
+.box1 {
+    background-color: lightcoral;
 }
+
